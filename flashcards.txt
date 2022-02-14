@@ -1,0 +1,400 @@
+Acronym	Term	Category
+BGP	Border Gateway Patrol	protocol
+OSPF	Open Shortest Path First	protocol
+EIGRP	Enhanced Interior Gateway Routing Protocol	protocol
+RIP	Routing Information Protocol	protocol
+OSI	Open Systems Interconnection	model
+PIN	Places in the Network	concept
+ACL	Access Control List	config
+DNS	Domain Name System	other
+MAC	Media Access Control	config
+ARP	Address Resolution Protocol	protocol
+STP	Spanning Tree Protocol	protocol
+BDPU	Bridge Protocol Data Unit	datatype
+DHCP	Dynamic Host Configuration Protocol	protocol
+PNAC	Port-based network access control	config
+WAP	Wireless Access Point	device
+BSSID	Basic Service Set Identifier	datatype
+SSID	Service Set Identifier	datatype
+WPA	Wi-Fi Protected Access	protocol
+WEP	Wired Equivalent Privacy	protocol
+TKIP	Temporal Key Integrity Protocol	protocol
+CCMP	Cipher Block Chaining Message Authentication Code Protocol	protocol
+GCMP	Galois/Counter Mode Protocol	protocol
+PSK	Pre-Shared Key	crypto
+PMK	Pairwise Master Key	crypto
+SAE	Simultaneous Authentication of Equals	process
+PAKE	Password Authenticated Key Exchange	process
+WPS	Wi-Fi Protected Setup	config
+DPP	Device Provisioning Protocol	protocol
+NFC	Nearfield Communication	concept
+IEEE	Institute of Electrical and Electronics Engineers	org
+EAP	Extensible Authentication Protocol	protocol
+EAPoW	EAP over wireless	protocol
+PEAP	Protected Extensible Authentication Protocol	protocol
+EAP-TTLS	EAP with Tunneled TLS	protocol
+EAP-FAST	EAP with Flexible Autehntication via Secure Tunneling	protocol
+PAC	Protected Access Credential	crypto
+TPM	Trusted Platform Module	device
+DRDoS	Distributed Reflection Denial of Service	attack
+RTBH	Remotely Triggered Black Hole	other
+NTP	Network Time Protocol	protocol
+QoS	Quality of Service	concept
+OWE	Opportunistic Wireless Encryption	crypto
+SOC	Security Operations Center	division
+NIST 	National Institute of Standards and Technology	org
+CIA	Confidentiality, Integrity, Availability	concept
+CIRT	Computer Incident Response team	division
+CSIRT	Computer Security Incident Response team	division
+CERT	Computer Emergency Response Team	division
+CSF	CyberSecurity Framework	standard
+ISO	International Organization for Standardization	org
+CSA	Cloud Security Alliance	org
+AICPA	American Institute of Certified Public Accountants	org
+CIS	Center for Internet Security 	org
+RMF 	Risk Management Framework	model
+SSAE	Standards for Attestation Engagements	model
+SOC	Service Organizational Control	model
+SOX	Sarbanes Oxley Act	standard
+OWASP	Open Web Application Security Project	model
+NCP	National Checklist Program	standard
+AUP	Acceptable Use Policy	other
+IDS	Intrusion Detective System	device
+APT	Advanced Persistant Threat	attack
+TTP	Tactics, Techniques, and Procedures	other
+SIEM	Security Informationand Event Management	device
+ISAC	Information Sharing and Analysis Centers	org
+ISAO	Information Sharing and Analysis Organizations	org
+OSINT	Open Source Intelligence	other
+CTI	Cyber Threat Intelligence	other
+STIX	Structured Threat Information eXpression	model
+TAXII	Trusted Automated eXchange of Indicator Information	protocol
+AIS	Automated Indicator Sharing	other
+TCP	Transmission Control Protocol	protocol
+UDP	User Datagram Protocol	protocol
+RAT	Remote Access Tool	attack
+SNMP	Simple Network Management Protocol	protocol
+BeEF	Browser Exploitation Framework	attack
+ZAP	Zed Attack Proxy	attack
+SCAP	Secure Network Automation Protocol	standard
+OVAL	Open Vulnerability Assessment Language	protocol
+XCCDF	Extensible Configuration Checklist Description Format	protocol
+CVE	Common Vulnerabilities and Exposures	other
+CVSS	Common Vulnerability Scoring System	model
+PUP	Potentially Unwanted Programs	attack
+PUA	Potentially Unwanted Applications	attack
+LOC	Low Observable Characteristics	attack
+C&C	Command and Control	attack
+EPP	Endpoint Protection Platforms	device
+UEBA	User and Entity Behavior Analytics	other
+AES	Advanced Encryption Standard	crypto
+RSA	Rivest-Shamir-Adleman	crypto
+ECC	Elliptic Curve Cryptography	crypto
+DSA	Digital Signature Algorithm	crypto
+PKI	Public Key Infrastructure	crypto
+TLS	Transport Layer Security	protocol
+CBC	Cipher Block Chaining Mode	crypto
+AEAD	Authenticated Encryption with Additional Data	crypto
+ECB	Electronic Code Block	crypto
+CBC	Cipher Block Chaining	crypto
+CFB	Cipher Feedback	crypto
+OFB	Output Feedback	crypto
+CTR	Counter (block cipher mode of operation)	crypto
+SHA	Secure Hashing Algorithm	crypto
+MAC	Message Authentication Code	crypto
+DES	Data Encryption Standard	crypto
+RC4	Rivest Cipher 4	crypto
+PBKDF2	Password Based Key Derivative Function	crypto
+DNSSEC	Domain Name System Security Extensions	protocol
+CA	Certificate Authority	org
+CSR	Certificate Signing Request	crypto
+PKCS	Public Key Cryptography Standards	standard
+SAN	Subject Alternative Name	crypto
+CN	Common Name	crypto
+EKU	Extended Key Usage	crypto
+DV	Domain Validation	crypto
+EV	Extended Validation	crypto
+CRL	Certificate Revocation List	crypto
+OCSP	Online Certification Status Protocol	protocol
+HPKP	HTTP Public Key Pinning	crypto
+DER	Distinguished Encoding Rules	crypto
+PEM	Privacy-Enhanced Electronic Mail	crypto
+SSL	Secure Socket Layer	protocol
+AAA	Authentication, Authorization, and Accounting	concept
+LSA	Local Security Authority	device
+SAM	Security Accounts Management database	device
+NTLM	NT LAN Manager	device
+PAM	Pluggable Authentication Module	device
+KDC	Key Distribution Center (Kerberos)	device
+TGT	Ticket Granting Ticket (Kerberos)	other
+TGS	Ticket Granting Service (Kerberos)	device
+PAP	Password Authenticated Protocol 	protocol
+PPP	Point-to-Point protocol	protocol
+CHAP	Challenge Handshake Authentication Protocol	protocol
+TPM	Trusted Platform Module	config
+HSM	Hardware Security Module	device
+RADIUS	Remote Authentication and Dial-in User Service	protocol
+TACACS+	Terminal Access Controller Access-Control System	protocol
+HOTP	HMAC-Based One-Time Password Algorithm	protocol
+TOTP	Time-Based One-Time Password Algorithm	protocol
+FRR	False Rejection Rate	other
+FNMR	False Non-Match Rate	other
+FAR	False Acceptance Rate	other
+CER	Crossover Error Rate	other
+FER	Failure to Enroll Rate	other
+SOP	Standard Operating Procedure	other
+SSH	Secure Shell	protocol
+PAM	Privilege Access Management	config
+GPO	Group Policy Objects	config
+OU	Organizational Unit	config
+ACE	Access Control Entry	config
+DAC	Discretionary Access Control	config
+RBAC	Role-Based Access Control	config
+MAC	Mandatory Access Control	config
+ABAC	Attribute-Based Access Control	config
+LDAP	Lightweight Directory Access Protocol 	protocol
+DN	Distinguished Name	other
+IdP	Identity Provider	device
+SP	Service Provider	device
+SAML	Secure Assertion Markup Language	protocol
+OAuth	Open Authorization	protocol
+OIDC	OpenID Connect	protocol
+NICE	National Initiative for Cybersecurity Education Framework	standard
+KSAA	Knowledge, Skills, and Abilities	concept
+CTF	Capture the Flag	other
+CBT	Computer-Based Training and Gamification	other
+ICMP	Internet Control Message Protocol	protocol
+HTTP	Hyper Text Transfer Protocol	protocol
+SMTP	Simple Mail Transfer Protocol	protocol
+IMAP	Internet Message Access Protocol	protocol
+POP	Post Office Protocol	protocol
+NOS	Network Operating System (Firewall)	device
+PAC	Proxy Auto-Configuration	config
+WPAD	Web Proxy Autodiscovery	protocol
+NAT	Network Address Translation	protocol
+NAPT	Overloaded NAT Address Port Translation	protocol
+PAT	Port Address Translation	protocol
+SPAN	Switched Port Analyzer	device
+TAP	Test Access Point	device
+IPS	Intrusion Prevention System	device
+NIDS	Network-Based Intrusion Detection System	device
+NBAD	Network Behavrio and Anomaly Detection	other
+NTA	Network Traffic Analysis	other
+NGFW	Next Generation Firewall	device
+UTM	Unified Threat Management	device
+SWG	Secure Web Gateway	device
+HIDS	Host-Based Intrusion Detection System	device
+FIM	File Integrity Monitoring	device
+WAF	Web Application Firewall	device
+DoS	Denial of Service	attack
+SOAR	Security Orchestration, Automation, and Response	other
+BIND	Berkely Internet Name Domain	protocol
+DNSSEC	DNS Security Extensions	config
+SASL	Simple Authentication and Security Layer	protocol
+MIB	Management Information Base	config
+URL	Uniform Resource Locator	protocol
+RSS	Really Simple Syndication	other
+FTP	File Transfer Protocol	protocol
+SFTP	SSH File Transfer Protocol	protocol
+FTPS	File Transfer Protocol Secure (Implicit)	protocol
+FTPES	File Transfer Protocol Secure (Explicit)	protocol
+S/MIME	Secure Multipurpose Internet Mail Extensions	protocol
+VoIP	Voice over IP	protocol
+SIP	Session Initiation Protocol	protocol
+PBX	Private Branch Exchange	protocol
+RTP	Real-time Transfer Protocol	protocol
+VPN	Virtual Private Network	device
+PPTP	Point-to-Point Tunneling Protocol	protocol
+DTLS	Datagram TLS	protocol
+SSTP	Secure Socket Tunneling Protocol	protocol
+IPSec	Internet Protocol Security	protocol
+AH	Authentication Header protocol	protocol
+ESP	Encapsulation Security Payload	protocol
+HMAC	Hash-Based Message Authentication Code	crypto
+ICV	Integrity Check Value	crypto
+IKE	Internet Key Exchange protocol	protocol
+L2TP	Layer 2 Tunneling Potocol	protocol
+RDP	Remote Access Protocol	protocol
+VNC	Virtual Network Computing	protocol
+OOB	Out of Band	config
+HTML	Hypertext Markup Language	protocol
+RoT	Root of Trust	crypto
+KMIP	Key Management Interoperability Protocol	protocol
+UEFI	Unified Extensible Firmware Interface	other
+PCF	Platform Configuration Register	config
+FDE	Full Disk Encryption	config
+SSD 	Solid State Drive	device
+SED	Self-Encrypting Drive	device
+DEK	Data Encryption Key	crypto
+MEK	Media Encryption Key	crypto
+AK	Authenticating Key	crypto
+KEK	Key Encryption Key	crypto
+TCG	Trusted Computer Group	org
+EOL	End of Life	concept
+EOSL	End of Service Life	concept
+MOU	Memorandum of Understanding	other
+BPA	Business Partnership Agreement	other
+NDA	Non-Disclosure Agreement	other
+SLA	Service Level Agreement	other
+MSA	Measurement Systems Analysis	other
+DLP	Data Loss Prevention	concept
+EDR	Endpoint Detection and Response	config
+CME	Common Malware Enumeration	other
+SoC	System on Chip	device
+PLC	Programmable Logic Controller	device
+FPGA	Field Programmable Gate Array	device
+RTOS	Real-Time Operating Systems	device
+NB-IoT	NarrowBand Internet of Things	protocol
+LTE	Long Term Evolution	protocol
+LTE-M	Long Term Evolution for Machines	protocol
+SIM	Subscriber Identity module card	device
+ICS	Industrial Control System	device
+DCS	Distributed Control System	device
+HMI	Human Machine Interface	device
+SCADA	Superviory Control and Data Acquisition	device
+BAS	Building Automation System	device
+IoT	Internet of Things	concept
+PACS	Physical Access Control System	device
+CCTV	Closed Circuit Television	device
+MFP	Multi-Function Printer	device
+ECU	Electronic Control Unit	device
+CAN	Controller Area Network	device
+BYOD	Bring Your Own Device	other
+COBO	Corporate Owned, Business Only	other
+COPE	Corporate Owned, Personally Enabled	other
+CYOD	Choose Your Own Device	other
+EMM	Enterprise Mobility Management	concept
+MDM	Mobile Device Management	config
+MAM	Mobile Application Management	config
+UEM	Unified Endpoint Management	config
+GPS	Global Positioning System	device
+IPS	Indoor Positioning System	device
+PAN	Pesonal Area Network	config
+RFID	Radio Frequency ID	config
+USB OTG	USB On The Go	device
+SMS	Short Messaging Service	protocol
+MMS	Multimedia Message Service	protocol
+RCS	Rich Communication Service	protocol
+OTR	Over the Air	protocol
+P2P	Point-To-Point	protocol
+P2M	Point-To-MultiPoint	protocol
+TTCTTOU	Time to Check to Time of Use	attack
+DLL	Dynamic Link Library	config
+PtH	Pass the Hash	attack
+API	Application Programming Interface	device
+CSRF (XSRF)	Cross Site Request Forgery	attack
+XSS	Cross Site Scripting	attack
+DOM	Document Object Model	protocol
+SQL	Structured Query Language	protocol
+XML	eXtensible Markup Language	protocol
+SSRF	Server-Side Request Forgery	attack
+SDl	Security Development Lifecycles	model
+CSP	Content Security Policy	config
+SHE	Structured Exception Handler	device
+SDK	Software Development Kit	config
+WPAC	Windows defender Application Control	config
+CI	Code Integrity	concept
+LSM	Linux Security Model 	config
+SRP	Software Registration Policies	config
+LSASS	Local Security Authority Subsystem Service	device
+BASH	Bourne Again Shell	protocol
+VBA	Visual Basic for Applications	protocol
+MitB	Man in the Browser	attack
+SDLC	Software Development Life Cycle	concept
+QC	Quality Control	concept
+QA	Quality Assurance	concept
+V&V	Verification and Validation	concept
+CSP	Cloud Service Provider	org
+Xaas	Anything as a Service	concept
+IaaS	Infrastructure as a Service	concept
+SaaS	Software as a Service	concept
+PaaS	Platform as a Service	concept
+EC2	Elastic Compute Cloud	device
+SECaaS	Security as a Service	concept
+MSSP	Managed Security Service Providers	division
+VMM	Virtual Machine Monitor	device
+VDI	Virtual Desktop Infrastructure	device
+VDE	Virtual Desktop Environment	device
+VMLM	Virtual Machine Life Cycle Management	config
+IOPS	Input/Output Operations Per Second	other
+HA	High Availability	config
+JSON	JavaScript Object Notation	protocol
+GRS	Geo-Redundant Storage	config
+VPC	Virtual Private Cloud	device
+CASB	Cloud Access Security Brokers	config
+SOA	Service Oriented Architecture	config
+SOAP	Simple Object Access Protocol	protocol
+REST	Representational State Transfer	protocol
+FaaS	Function as a Service	concept
+IaC	Infrastructure as Code	concept
+SDN	Software Defined Networking	concept
+NFV	Network Functions Virtualization	config
+SDV	Software Defined Visibility	config
+DPO	Data Privacy Officer	other
+IP	Intellectual Property	datatype
+PII	Personally Identifiable Information	datatype
+PHI	Personal Health Information	datatype
+PCI DSS	Payment Industry Data Security Standard	standard
+HIPAA	Health Insurance Portability and Accountability Act	standard
+ISA	Interconnection Security Agreement	standard
+RAM	Random Access Memory	device
+IRM	Information Rights Management	config
+IRP	Incident Response Plan	other
+BCP	Business Continuity Plan	other
+COOP	Continuity of Operation Planning	other
+MUA	Mail User Agent	device
+MDA	Mail Delivery Agent	device
+MTA	Mail Transfer Agent	device
+RNA	Retrospective Network Analysis	concept
+MTTR	Mean Time to Response	other
+MDM	Mobile Device Management	device
+FTK	The Forensic Toolkit	device
+ESD	Electrostatic Discharge	other
+ADS	Alternate Data Stream	other
+ERM	Enterprise Risk Management	division
+RMF 	Risk Management Framework	standard
+RCSA	Risk and Control Self Assessment	standard
+RCA	Risk Control Assessment	model
+SLE	Single Loss Expectancy	other
+EF	Exposure Factor	other
+ALE	Annualized Loss Expectancy	other
+ARO	Annuallized Rate of Occurance	other
+ROSI	Return on Security Investment	other
+SC	Security Categorization	model
+BIA	Business Impact Analysis	other
+MEF	Mission Essential Function	concept
+PBF	Primary Business Function	concept
+MTD	Maximum Tolerable Downtime	other
+RTOS	Recovery Time Objective	other
+WRT	Work Recovery Time	other
+RPO	Recovery Point Objective	other
+SPoF	Single Point of Failure	concept
+MTTF	Mean Time to Faliure	other
+MTBF	Mean Time Between Failures	other
+MTTR	Mean Time to Repair	other
+DRP	Disaster Recovery Plan	other
+PSU	Power Supply Unit	device
+PDU	Power Distribution Unit	device
+UPS	Uninterruptable Power Supplies	device
+RAID	Redundant Array of Independent Disks	device
+SAN	Storage Area Network	config
+SCSI	Small Computer System Interface	device
+VSS	Volume Shadow Copy	device
+NTFS	New Technology File System	protocol
+NAS	Network Attached Storage	config
+SOHO	Small Office / Home Office	division
+ITIL	IT Infrastructure Library	standard
+CI	Configuration Item	device
+CMDB	Configuration Management Database	device
+CMS	Configuration Management System	device
+IPAM	IP Address Management 	config
+RFC	Request for Change	other
+PDS	Protected Cable Distribution	config
+HVAC	Heating, Ventalation, Air Conditioning	config
+BTU	British Thermal Units	other
+KW	KiloWatts	other
+EMI	Electromagnetic Interference	other
+NFPA	National Fire Protection Association	org
+SE	Secure Erase	protocol
+SASL	Serial Attached SCSI (Small Computer System Interface)	device
+ISE	Instant Secure Erase	protocol
